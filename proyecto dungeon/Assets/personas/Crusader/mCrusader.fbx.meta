@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 5c5ef0088b635214f99dab27cf6b9b20
+timeCreated: 1454258601
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01_Head
+    100004: Bip01_L_Calf
+    100006: Bip01_L_Clavicle
+    100008: Bip01_L_Finger1
+    100010: Bip01_L_Finger11
+    100012: Bip01_L_Foot
+    100014: Bip01_L_Forearm
+    100016: Bip01_L_Hand
+    100018: Bip01_L_Thigh
+    100020: Bip01_L_UpperArm
+    100022: Bip01_Neck
+    100024: Bip01_Pelvis
+    100026: Bip01_R_Calf
+    100028: Bip01_R_Clavicle
+    100030: Bip01_R_Foot
+    100032: Bip01_R_Forearm
+    100034: Bip01_R_Hand
+    100036: Bip01_R_Thigh
+    100038: Bip01_R_UpperArm
+    100040: Bip01_Spine
+    100042: Bip01_Spine1
+    100044: Bip01_Spine2
+    100046: Clothing
+    100048: Head_l_wig
+    100050: //RootNode
+    100052: Untitled
+    400000: Bip01
+    400002: Bip01_Head
+    400004: Bip01_L_Calf
+    400006: Bip01_L_Clavicle
+    400008: Bip01_L_Finger1
+    400010: Bip01_L_Finger11
+    400012: Bip01_L_Foot
+    400014: Bip01_L_Forearm
+    400016: Bip01_L_Hand
+    400018: Bip01_L_Thigh
+    400020: Bip01_L_UpperArm
+    400022: Bip01_Neck
+    400024: Bip01_Pelvis
+    400026: Bip01_R_Calf
+    400028: Bip01_R_Clavicle
+    400030: Bip01_R_Foot
+    400032: Bip01_R_Forearm
+    400034: Bip01_R_Hand
+    400036: Bip01_R_Thigh
+    400038: Bip01_R_UpperArm
+    400040: Bip01_Spine
+    400042: Bip01_Spine1
+    400044: Bip01_Spine2
+    400046: Clothing
+    400048: Head_l_wig
+    400050: //RootNode
+    400052: Untitled
+    4300000: Clothing
+    4300002: Untitled
+    7400000: Tpose
+    7400002: SwordCombatReady
+    7400004: SwordHighSwordStraightDown
+    7400006: SwordSwingLowLeft
+    7400008: SwordSwingLowRight
+    7400010: SwordSwingMidLeft
+    7400012: SwordSwingMidRight
+    7400014: SwordThrustHigh
+    7400016: SwordThrustLow
+    7400018: SwordThrustMid
+    7400020: SwordDying
+    7400022: SwordGetup
+    7400024: SwordWalk
+    7400026: SwordDodgeBackwards
+    7400028: SwordDodgeLeft
+    7400030: SwordDodgeRighht
+    7400032: SwordDuckBelow
+    7400034: SwordShieldBlockHighFront
+    7400036: SwordBlockHighLeft
+    7400038: SwordShieldBlockHIghRight
+    7400040: SwordShieldBlockLowFront
+    7400042: SwordShieldBlockLeft
+    7400044: SwordShieldBlockLowRight
+    7400046: SwordShieldBlockMidFront
+    7400048: SwordShieldBlockMidLeft
+    7400050: SwordShieldBlockMidRight
+    7400052: SwordparryLowFront
+    7400054: SwordParryLowLeft
+    7400056: SwordParryLowRighjt
+    7400058: SwordParryMidFront
+    7400060: SwordParryMidLeft
+    7400062: SwordParryMidRight
+    7400064: SwordSwingHightLeft
+    7400066: SwordSwingHighRight
+    7400068: NPCDissapointed
+    7400070: NPCBoring
+    7400072: NPCExplanation
+    7400074: NPCPointingA
+    7400076: NPCLookingAround
+    7400078: NPCShrugs
+    7400080: NPCTalking
+    7400082: NPCUseObject
+    7400084: NPCSitDown
+    7400086: NPCStandFromSitting
+    7400088: NPCGoToSleepPOSE
+    7400090: NPCSleeping
+    7400092: NPCWakingUp
+    7400094: NPCDyingA
+    7400096: GENjump
+    7400098: GENSneaking
+    7400100: GENHitFromBack
+    7400102: GENHitFromLeft
+    7400104: GENHitFromFront
+    7400106: GENHitFromRight
+    7400108: NPCThinking
+    7400110: NPCWarning
+    7400112: NPCDyingB
+    7400114: Charge
+    7400116: GENRun
+    9500000: //RootNode
+    13700000: Clothing
+    13700002: Untitled
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

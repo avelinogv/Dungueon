@@ -1,0 +1,290 @@
+fileFormatVersion: 2
+guid: 6f9d78b7a0338d34f9c2d81d373c86d1
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: axe
+    100002: base
+    100004: body
+    100006: //RootNode
+    100008: end
+    100010: head
+    100012: hit
+    100014: Joint17
+    100016: Joint18
+    100018: Joint19
+    100020: Joint20
+    100022: Joint21
+    100024: Joint25
+    100026: Joint26
+    100028: Joint27
+    100030: Joint28
+    100032: Joint29
+    100034: Joint36
+    100036: Joint37
+    100038: Joint38
+    100040: Joint39
+    100042: Joint40
+    100044: Joint41
+    100046: Joint42
+    100048: Joint43
+    100050: Joint75
+    100052: Joint76
+    100054: lankle
+    100056: lelbo
+    100058: lhip
+    100060: lknee
+    100062: lsholda
+    100064: ltoe
+    100066: lwrist
+    100068: middle
+    100070: pad1
+    100072: pad2
+    100074: pads
+    100076: rankle
+    100078: relbo
+    100080: rhip
+    100082: rknee
+    100084: rsholda
+    100086: rtoe
+    100088: rwrist
+    100090: spine1
+    100092: spine2
+    100094: top
+    100096: weapon
+    400000: axe
+    400002: base
+    400004: body
+    400006: //RootNode
+    400008: end
+    400010: head
+    400012: hit
+    400014: Joint17
+    400016: Joint18
+    400018: Joint19
+    400020: Joint20
+    400022: Joint21
+    400024: Joint25
+    400026: Joint26
+    400028: Joint27
+    400030: Joint28
+    400032: Joint29
+    400034: Joint36
+    400036: Joint37
+    400038: Joint38
+    400040: Joint39
+    400042: Joint40
+    400044: Joint41
+    400046: Joint42
+    400048: Joint43
+    400050: Joint75
+    400052: Joint76
+    400054: lankle
+    400056: lelbo
+    400058: lhip
+    400060: lknee
+    400062: lsholda
+    400064: ltoe
+    400066: lwrist
+    400068: middle
+    400070: pad1
+    400072: pad2
+    400074: pads
+    400076: rankle
+    400078: relbo
+    400080: rhip
+    400082: rknee
+    400084: rsholda
+    400086: rtoe
+    400088: rwrist
+    400090: spine1
+    400092: spine2
+    400094: top
+    400096: weapon
+    4300000: pads
+    4300002: axe
+    4300004: body
+    7400000: dwf_walk
+    7400002: dwf_run
+    7400004: dwf_jump
+    7400006: dwf_idle_battle
+    11100000: //RootNode
+    13700000: axe
+    13700002: body
+    13700004: pads
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: dwf_walk
+      takeName: 
+      firstFrame: 2
+      lastFrame: 14
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dwf_run
+      takeName: 
+      firstFrame: 16
+      lastFrame: 26
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dwf_jump
+      takeName: 
+      firstFrame: 28
+      lastFrame: 40
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: dwf_idle_battle
+      takeName: 
+      firstFrame: 75
+      lastFrame: 110
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.03
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

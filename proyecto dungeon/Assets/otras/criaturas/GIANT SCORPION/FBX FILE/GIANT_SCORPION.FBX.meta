@@ -1,0 +1,798 @@
+fileFormatVersion: 2
+guid: 7bb64c1bb0d42b64c80fd551983d4e9c
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Factice001
+    100002: Factice002
+    100004: Factice003
+    100006: Factice004
+    100008: Factice005
+    100010: Factice006
+    100012: Factice007
+    100014: Factice008
+    100016: Factice009
+    100018: Factice010
+    100020: Factice011
+    100022: Factice012
+    100024: Factice013
+    100026: Factice014
+    100028: //RootNode
+    100030: GIANT_SCORPION_ABDOMEN_A
+    100032: GIANT_SCORPION_ABDOMEN_B
+    100034: GIANT_SCORPION_ABDOMEN_C
+    100036: GIANT_SCORPION_ABDOMEN_D
+    100038: GIANT_SCORPION_CHELICERATE_L_A
+    100040: GIANT_SCORPION_CHELICERATE_L_A(mis en miroir)
+    100042: GIANT_SCORPION_CHELICERATE_L_B
+    100044: GIANT_SCORPION_CHELICERATE_L_B(mis en miroir)
+    100046: GIANT_SCORPION_CLAW_L_A
+    100048: GIANT_SCORPION_CLAW_L_A(mis en miroir)
+    100050: GIANT_SCORPION_CLAW_L_B
+    100052: GIANT_SCORPION_CLAW_L_B(mis en miroir)
+    100054: GIANT_SCORPION_CLAW_L_C
+    100056: GIANT_SCORPION_CLAW_L_C(mis en miroir)
+    100058: GIANT_SCORPION_CLAW_L_THUMB
+    100060: GIANT_SCORPION_CLAW_L_THUMB(mis en miroir)
+    100062: GIANT_SCORPION_HEAD
+    100064: GIANT_SCORPION_LEG_L_1_A
+    100066: GIANT_SCORPION_LEG_L_1_A(mis en miroir)
+    100068: GIANT_SCORPION_LEG_L_1_B
+    100070: GIANT_SCORPION_LEG_L_1_B(mis en miroir)
+    100072: GIANT_SCORPION_LEG_L_1_C
+    100074: GIANT_SCORPION_LEG_L_1_C(mis en miroir)
+    100076: GIANT_SCORPION_LEG_L_1_D
+    100078: GIANT_SCORPION_LEG_L_1_D(mis en miroir)
+    100080: GIANT_SCORPION_LEG_L_1_E
+    100082: GIANT_SCORPION_LEG_L_1_E(mis en miroir)
+    100084: GIANT_SCORPION_LEG_L_1_F
+    100086: GIANT_SCORPION_LEG_L_1_F(mis en miroir)
+    100088: GIANT_SCORPION_LEG_L_2_A
+    100090: GIANT_SCORPION_LEG_L_2_A(mis en miroir)
+    100092: GIANT_SCORPION_LEG_L_2_B
+    100094: GIANT_SCORPION_LEG_L_2_B(mis en miroir)
+    100096: GIANT_SCORPION_LEG_L_2_C
+    100098: GIANT_SCORPION_LEG_L_2_C(mis en miroir)
+    100100: GIANT_SCORPION_LEG_L_2_D
+    100102: GIANT_SCORPION_LEG_L_2_D(mis en miroir)
+    100104: GIANT_SCORPION_LEG_L_2_E
+    100106: GIANT_SCORPION_LEG_L_2_E(mis en miroir)
+    100108: GIANT_SCORPION_LEG_L_2_F
+    100110: GIANT_SCORPION_LEG_L_2_F(mis en miroir)
+    100112: GIANT_SCORPION_LEG_L_3_A
+    100114: GIANT_SCORPION_LEG_L_3_A(mis en miroir)
+    100116: GIANT_SCORPION_LEG_L_3_B
+    100118: GIANT_SCORPION_LEG_L_3_B(mis en miroir)
+    100120: GIANT_SCORPION_LEG_L_3_B001
+    100122: GIANT_SCORPION_LEG_L_3_B001(mis en miroir)
+    100124: GIANT_SCORPION_LEG_L_3_C
+    100126: GIANT_SCORPION_LEG_L_3_C(mis en miroir)
+    100128: GIANT_SCORPION_LEG_L_3_C001
+    100130: GIANT_SCORPION_LEG_L_3_C001(mis en miroir)
+    100132: GIANT_SCORPION_LEG_L_3_D
+    100134: GIANT_SCORPION_LEG_L_3_D(mis en miroir)
+    100136: GIANT_SCORPION_LEG_L_3_D001
+    100138: GIANT_SCORPION_LEG_L_3_D001(mis en miroir)
+    100140: GIANT_SCORPION_LEG_L_3_E
+    100142: GIANT_SCORPION_LEG_L_3_E(mis en miroir)
+    100144: GIANT_SCORPION_LEG_L_3_E001
+    100146: GIANT_SCORPION_LEG_L_3_E001(mis en miroir)
+    100148: GIANT_SCORPION_LEG_L_3_F
+    100150: GIANT_SCORPION_LEG_L_3_F(mis en miroir)
+    100152: GIANT_SCORPION_LEG_L_3_F001
+    100154: GIANT_SCORPION_LEG_L_3_F001(mis en miroir)
+    100156: GIANT_SCORPION_LEG_L_4_A
+    100158: GIANT_SCORPION_LEG_L_4_A(mis en miroir)
+    100160: GIANT_SCORPION_STINGER
+    100162: GIANT_SCORPION_TAIL_A
+    100164: GIANT_SCORPION_TAIL_B
+    100166: GIANT_SCORPION_TAIL_C
+    100168: GIANT_SCORPION_TAIL_D
+    100170: GIANT_SCORPION_TAIL_E
+    100172: SCORPION
+    400000: Factice001
+    400002: Factice002
+    400004: Factice003
+    400006: Factice004
+    400008: Factice005
+    400010: Factice006
+    400012: Factice007
+    400014: Factice008
+    400016: Factice009
+    400018: Factice010
+    400020: Factice011
+    400022: Factice012
+    400024: Factice013
+    400026: Factice014
+    400028: //RootNode
+    400030: GIANT_SCORPION_ABDOMEN_A
+    400032: GIANT_SCORPION_ABDOMEN_B
+    400034: GIANT_SCORPION_ABDOMEN_C
+    400036: GIANT_SCORPION_ABDOMEN_D
+    400038: GIANT_SCORPION_CHELICERATE_L_A
+    400040: GIANT_SCORPION_CHELICERATE_L_A(mis en miroir)
+    400042: GIANT_SCORPION_CHELICERATE_L_B
+    400044: GIANT_SCORPION_CHELICERATE_L_B(mis en miroir)
+    400046: GIANT_SCORPION_CLAW_L_A
+    400048: GIANT_SCORPION_CLAW_L_A(mis en miroir)
+    400050: GIANT_SCORPION_CLAW_L_B
+    400052: GIANT_SCORPION_CLAW_L_B(mis en miroir)
+    400054: GIANT_SCORPION_CLAW_L_C
+    400056: GIANT_SCORPION_CLAW_L_C(mis en miroir)
+    400058: GIANT_SCORPION_CLAW_L_THUMB
+    400060: GIANT_SCORPION_CLAW_L_THUMB(mis en miroir)
+    400062: GIANT_SCORPION_HEAD
+    400064: GIANT_SCORPION_LEG_L_1_A
+    400066: GIANT_SCORPION_LEG_L_1_A(mis en miroir)
+    400068: GIANT_SCORPION_LEG_L_1_B
+    400070: GIANT_SCORPION_LEG_L_1_B(mis en miroir)
+    400072: GIANT_SCORPION_LEG_L_1_C
+    400074: GIANT_SCORPION_LEG_L_1_C(mis en miroir)
+    400076: GIANT_SCORPION_LEG_L_1_D
+    400078: GIANT_SCORPION_LEG_L_1_D(mis en miroir)
+    400080: GIANT_SCORPION_LEG_L_1_E
+    400082: GIANT_SCORPION_LEG_L_1_E(mis en miroir)
+    400084: GIANT_SCORPION_LEG_L_1_F
+    400086: GIANT_SCORPION_LEG_L_1_F(mis en miroir)
+    400088: GIANT_SCORPION_LEG_L_2_A
+    400090: GIANT_SCORPION_LEG_L_2_A(mis en miroir)
+    400092: GIANT_SCORPION_LEG_L_2_B
+    400094: GIANT_SCORPION_LEG_L_2_B(mis en miroir)
+    400096: GIANT_SCORPION_LEG_L_2_C
+    400098: GIANT_SCORPION_LEG_L_2_C(mis en miroir)
+    400100: GIANT_SCORPION_LEG_L_2_D
+    400102: GIANT_SCORPION_LEG_L_2_D(mis en miroir)
+    400104: GIANT_SCORPION_LEG_L_2_E
+    400106: GIANT_SCORPION_LEG_L_2_E(mis en miroir)
+    400108: GIANT_SCORPION_LEG_L_2_F
+    400110: GIANT_SCORPION_LEG_L_2_F(mis en miroir)
+    400112: GIANT_SCORPION_LEG_L_3_A
+    400114: GIANT_SCORPION_LEG_L_3_A(mis en miroir)
+    400116: GIANT_SCORPION_LEG_L_3_B
+    400118: GIANT_SCORPION_LEG_L_3_B(mis en miroir)
+    400120: GIANT_SCORPION_LEG_L_3_B001
+    400122: GIANT_SCORPION_LEG_L_3_B001(mis en miroir)
+    400124: GIANT_SCORPION_LEG_L_3_C
+    400126: GIANT_SCORPION_LEG_L_3_C(mis en miroir)
+    400128: GIANT_SCORPION_LEG_L_3_C001
+    400130: GIANT_SCORPION_LEG_L_3_C001(mis en miroir)
+    400132: GIANT_SCORPION_LEG_L_3_D
+    400134: GIANT_SCORPION_LEG_L_3_D(mis en miroir)
+    400136: GIANT_SCORPION_LEG_L_3_D001
+    400138: GIANT_SCORPION_LEG_L_3_D001(mis en miroir)
+    400140: GIANT_SCORPION_LEG_L_3_E
+    400142: GIANT_SCORPION_LEG_L_3_E(mis en miroir)
+    400144: GIANT_SCORPION_LEG_L_3_E001
+    400146: GIANT_SCORPION_LEG_L_3_E001(mis en miroir)
+    400148: GIANT_SCORPION_LEG_L_3_F
+    400150: GIANT_SCORPION_LEG_L_3_F(mis en miroir)
+    400152: GIANT_SCORPION_LEG_L_3_F001
+    400154: GIANT_SCORPION_LEG_L_3_F001(mis en miroir)
+    400156: GIANT_SCORPION_LEG_L_4_A
+    400158: GIANT_SCORPION_LEG_L_4_A(mis en miroir)
+    400160: GIANT_SCORPION_STINGER
+    400162: GIANT_SCORPION_TAIL_A
+    400164: GIANT_SCORPION_TAIL_B
+    400166: GIANT_SCORPION_TAIL_C
+    400168: GIANT_SCORPION_TAIL_D
+    400170: GIANT_SCORPION_TAIL_E
+    400172: SCORPION
+    4300000: SCORPION
+    7400000: walkForward
+    7400002: walkBackwards
+    7400004: strafeLeft
+    7400006: strafeRight
+    7400008: idle
+    7400010: clawAttackRight
+    7400012: clawAttackLeft
+    7400014: clawsAttack2HitCombo
+    7400016: doubleClawsAttack
+    7400018: Take 0018
+    7400020: Take 0019
+    7400022: Take 00110
+    7400024: Take 00111
+    7400026: Take 00112
+    7400028: Take 00113
+    7400030: Take 00114
+    7400032: Take 00115
+    7400034: Take 00116
+    7400036: Take 00117
+    7400038: Take 00118
+    7400040: clawsAttack3HitCombo
+    7400042: stingerAttack
+    7400044: clawsStingerAttack3HitCombo
+    7400046: strafeLeftClawAttack
+    7400048: strafeRightClawAttack
+    7400050: strafeLeftDoubleClawsAttack
+    7400052: strafeRightDoubleClawsAttack
+    7400054: getOutOfTheGround
+    7400056: getBackUnderTheGround
+    7400058: getHit
+    7400060: death
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: SCORPION
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walkForward
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 34
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: walkBackwards
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 69
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: strafeLeft
+      takeName: Take 001
+      firstFrame: 75
+      lastFrame: 104
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: strafeRight
+      takeName: Take 001
+      firstFrame: 110
+      lastFrame: 139
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 145
+      lastFrame: 204
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: clawAttackRight
+      takeName: Take 001
+      firstFrame: 210
+      lastFrame: 254
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: clawAttackLeft
+      takeName: Take 001
+      firstFrame: 260
+      lastFrame: 304
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: clawsAttack2HitCombo
+      takeName: Take 001
+      firstFrame: 310
+      lastFrame: 374
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: doubleClawsAttack
+      takeName: Take 001
+      firstFrame: 380
+      lastFrame: 424
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: clawsAttack3HitCombo
+      takeName: Take 001
+      firstFrame: 430
+      lastFrame: 514
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: stingerAttack
+      takeName: Take 001
+      firstFrame: 515
+      lastFrame: 539
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: clawsStingerAttack3HitCombo
+      takeName: Take 001
+      firstFrame: 545
+      lastFrame: 613
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: strafeLeftClawAttack
+      takeName: Take 001
+      firstFrame: 620
+      lastFrame: 649
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: strafeRightClawAttack
+      takeName: Take 001
+      firstFrame: 655
+      lastFrame: 684
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: strafeLeftDoubleClawsAttack
+      takeName: Take 001
+      firstFrame: 690
+      lastFrame: 719
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: strafeRightDoubleClawsAttack
+      takeName: Take 001
+      firstFrame: 725
+      lastFrame: 754
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: getOutOfTheGround
+      takeName: Take 001
+      firstFrame: 760
+      lastFrame: 809
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: getBackUnderTheGround
+      takeName: Take 001
+      firstFrame: 815
+      lastFrame: 864
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: getHit
+      takeName: Take 001
+      firstFrame: 870
+      lastFrame: 899
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: death
+      takeName: Take 001
+      firstFrame: 910
+      lastFrame: 959
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

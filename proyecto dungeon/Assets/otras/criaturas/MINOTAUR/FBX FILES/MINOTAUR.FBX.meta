@@ -1,0 +1,202 @@
+fileFormatVersion: 2
+guid: b4f08dc581dc5ab4bb8f3eccc78de3a6
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MINOTAUR
+    100004: MINOTAUR_
+    100006: MINOTAUR_ Head
+    100008: MINOTAUR_ L Calf
+    100010: MINOTAUR_ L Clavicle
+    100012: MINOTAUR_ L Finger0
+    100014: MINOTAUR_ L Finger01
+    100016: MINOTAUR_ L Finger02
+    100018: MINOTAUR_ L Finger1
+    100020: MINOTAUR_ L Finger11
+    100022: MINOTAUR_ L Finger12
+    100024: MINOTAUR_ L Finger2
+    100026: MINOTAUR_ L Finger21
+    100028: MINOTAUR_ L Finger22
+    100030: MINOTAUR_ L Finger3
+    100032: MINOTAUR_ L Finger31
+    100034: MINOTAUR_ L Finger32
+    100036: MINOTAUR_ L Finger4
+    100038: MINOTAUR_ L Finger41
+    100040: MINOTAUR_ L Finger42
+    100042: MINOTAUR_ L Foot
+    100044: MINOTAUR_ L Forearm
+    100046: MINOTAUR_ L Hand
+    100048: MINOTAUR_ L HorseLink
+    100050: MINOTAUR_ L Thigh
+    100052: MINOTAUR_ L UpperArm
+    100054: MINOTAUR_ Neck
+    100056: MINOTAUR_ Neck1
+    100058: MINOTAUR_ Pelvis
+    100060: MINOTAUR_ Queue de cheval 1
+    100062: MINOTAUR_ R Calf
+    100064: MINOTAUR_ R Clavicle
+    100066: MINOTAUR_ R Finger0
+    100068: MINOTAUR_ R Finger01
+    100070: MINOTAUR_ R Finger02
+    100072: MINOTAUR_ R Finger1
+    100074: MINOTAUR_ R Finger11
+    100076: MINOTAUR_ R Finger12
+    100078: MINOTAUR_ R Finger2
+    100080: MINOTAUR_ R Finger21
+    100082: MINOTAUR_ R Finger22
+    100084: MINOTAUR_ R Finger3
+    100086: MINOTAUR_ R Finger31
+    100088: MINOTAUR_ R Finger32
+    100090: MINOTAUR_ R Finger4
+    100092: MINOTAUR_ R Finger41
+    100094: MINOTAUR_ R Finger42
+    100096: MINOTAUR_ R Foot
+    100098: MINOTAUR_ R Forearm
+    100100: MINOTAUR_ R Hand
+    100102: MINOTAUR_ R HorseLink
+    100104: MINOTAUR_ R Thigh
+    100106: MINOTAUR_ R UpperArm
+    100108: MINOTAUR_ Spine
+    100110: MINOTAUR_ Spine1
+    100112: MINOTAUR_SHOULDER_PAD
+    100114: MINOTAUR_WARHAMMER
+    100116: MINOTAUR_CLOTHE
+    400000: //RootNode
+    400002: MINOTAUR
+    400004: MINOTAUR_
+    400006: MINOTAUR_ Head
+    400008: MINOTAUR_ L Calf
+    400010: MINOTAUR_ L Clavicle
+    400012: MINOTAUR_ L Finger0
+    400014: MINOTAUR_ L Finger01
+    400016: MINOTAUR_ L Finger02
+    400018: MINOTAUR_ L Finger1
+    400020: MINOTAUR_ L Finger11
+    400022: MINOTAUR_ L Finger12
+    400024: MINOTAUR_ L Finger2
+    400026: MINOTAUR_ L Finger21
+    400028: MINOTAUR_ L Finger22
+    400030: MINOTAUR_ L Finger3
+    400032: MINOTAUR_ L Finger31
+    400034: MINOTAUR_ L Finger32
+    400036: MINOTAUR_ L Finger4
+    400038: MINOTAUR_ L Finger41
+    400040: MINOTAUR_ L Finger42
+    400042: MINOTAUR_ L Foot
+    400044: MINOTAUR_ L Forearm
+    400046: MINOTAUR_ L Hand
+    400048: MINOTAUR_ L HorseLink
+    400050: MINOTAUR_ L Thigh
+    400052: MINOTAUR_ L UpperArm
+    400054: MINOTAUR_ Neck
+    400056: MINOTAUR_ Neck1
+    400058: MINOTAUR_ Pelvis
+    400060: MINOTAUR_ Queue de cheval 1
+    400062: MINOTAUR_ R Calf
+    400064: MINOTAUR_ R Clavicle
+    400066: MINOTAUR_ R Finger0
+    400068: MINOTAUR_ R Finger01
+    400070: MINOTAUR_ R Finger02
+    400072: MINOTAUR_ R Finger1
+    400074: MINOTAUR_ R Finger11
+    400076: MINOTAUR_ R Finger12
+    400078: MINOTAUR_ R Finger2
+    400080: MINOTAUR_ R Finger21
+    400082: MINOTAUR_ R Finger22
+    400084: MINOTAUR_ R Finger3
+    400086: MINOTAUR_ R Finger31
+    400088: MINOTAUR_ R Finger32
+    400090: MINOTAUR_ R Finger4
+    400092: MINOTAUR_ R Finger41
+    400094: MINOTAUR_ R Finger42
+    400096: MINOTAUR_ R Foot
+    400098: MINOTAUR_ R Forearm
+    400100: MINOTAUR_ R Hand
+    400102: MINOTAUR_ R HorseLink
+    400104: MINOTAUR_ R Thigh
+    400106: MINOTAUR_ R UpperArm
+    400108: MINOTAUR_ Spine
+    400110: MINOTAUR_ Spine1
+    400112: MINOTAUR_SHOULDER_PAD
+    400114: MINOTAUR_WARHAMMER
+    400116: MINOTAUR_CLOTHE
+    2300000: MINOTAUR_WARHAMMER
+    3300000: MINOTAUR_WARHAMMER
+    4300000: MINOTAUR
+    4300002: MINOTAUR_WARHAMMER
+    4300004: MINOTAUR_SHOULDER_PAD
+    4300006: MINOTAUR_CLOTHE
+    7400000: idleWeapon
+    7400002: walkWeapon
+    7400004: runWeapon
+    7400006: Take 0012
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: MINOTAUR
+    13700002: MINOTAUR_SHOULDER_PAD
+    13700004: MINOTAUR_CLOTHE
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
